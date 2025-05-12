@@ -1,4 +1,4 @@
-import PropertyForm from "./Components/PropertyForm";
+import PropertyForm from "../src/components/PropertyForm.jsx";
 
 function App() {
   return (
